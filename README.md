@@ -1,2 +1,3 @@
-# design_patterns
-Learning Design Patterns
+# Design Patterns
+ - Object Literal Pattern
+ - 
