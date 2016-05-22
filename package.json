@@ -1,0 +1,22 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "- Object Literal Pattern\r  -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/design_patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/design_patterns/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/design_patterns#readme",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
