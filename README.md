@@ -1,8 +1,8 @@
 # Design Patterns
  There are mainly three patterns
- - Creational Pattern
- - Strcutural Pattern
- - Behavioral Pattern
+ - Creational Pattern (Constructor,Module,Singleton,Factory)
+ - Strcutural Pattern (Decorator,Flyweight,Facade)
+ - Behavioral Pattern (Command,Mediator,Observer)
  
 ### Creational Pattern
 ![](http://i.imgur.com/RJfPvta.png)
