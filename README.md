@@ -17,3 +17,9 @@ Structural design patterns focus on ways to manage **relationships between objec
 
 ### Behavioral Pattern
  behavioral design patterns are design patterns that identify **common communication patterns (how objects relate to each other)** between objects
+
+### Reacp Basics
+- Four ways to create objects (object literal,Construtor function,Object(),Object.create())
+- Assigning and reading values from objects (dot(.) and bracket([]) notations)
+- Define properties (Object.defineProperties)
+- Inheritance (Object.create())
