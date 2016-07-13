@@ -29,7 +29,7 @@ obj1.getInfo=function(){
 console.log(obj1.getInfo());
 
 
-// ============================ method-3
+// ============================ method-3 (similar to method 4)
 
 function Person(){
 
@@ -43,7 +43,7 @@ function Person(){
 var person = new Person();
 console.log(person.getInfo());
 
-// ============================ method - 4
+// ============================ method - 4 (similar to method 3)
 
 var person = new function(){
 
